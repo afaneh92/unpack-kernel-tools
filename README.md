@@ -13,3 +13,8 @@ naturally, meaning that some non-compressed files get uncompressed.
 -in folder /usr/bin/ don't forget to rename your original "xz" (for backup).
 
 -copy "xz" to /usr/bin/ .
+
+
+#how to use
+
+-just type ./unpack.sh boot.img or ./unpack.sh zImage
