@@ -6,7 +6,7 @@ naturally, meaning that some non-compressed files get uncompressed.
 
 #If your had lzma and un unlzma issue just do this steps
 
--In terminal type "gksu nautilus".
+-In terminal type "sudo gksu nautilus".
 
 -If gksu not installed just type "sudo apt-get install gksu", then back to step above.
 
